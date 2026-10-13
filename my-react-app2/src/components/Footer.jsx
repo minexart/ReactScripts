@@ -1,0 +1,14 @@
+import "./Footer.css";
+
+
+function Footer () 
+{
+    return(
+         <footer>
+        <p>&copy; 2026 Minex React App. All rights reserved.</p>
+    </footer>
+    );
+   
+}
+
+f
