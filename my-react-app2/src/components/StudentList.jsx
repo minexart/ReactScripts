@@ -13,3 +13,4 @@ function StudentList() {
         </div>
     );
 }
+export default StudentList;

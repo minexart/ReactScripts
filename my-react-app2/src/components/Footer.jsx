@@ -11,4 +11,4 @@ function Footer ()
    
 }
 
-f
+export default Footer;
