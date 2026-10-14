@@ -5,10 +5,11 @@ function CourseInfo() {
     return (
       
         <section className="course-info">
+            <h2>Course Information</h2>
             <ul type="circle">
-                <li>Course Name</li>
-                <li>Duration</li>
-                <li>Level(Diploma/Degree)</li>
+                <li>Course Name: Web Development</li>
+                <li>Duration: 2 years</li>
+                <li>Level: Diploma</li>
                 
             </ul>
         </section>
@@ -18,4 +19,4 @@ function CourseInfo() {
  
 }
 
-export default CourseInfo
+export default CourseInfo;
