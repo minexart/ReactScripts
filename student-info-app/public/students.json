@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Ali Ahmad",
+        "studentId": "S001",
+        "programme": "Diploma in IT",
+        "email": "ali@example.com"
+    },
+
+    {
+        "id": 2,
+        "name": "Nur Aisyah",
+        "studentId": "S002",
+        "programme": "Diploma in Software Engineering",
+        "email": "aisyah@example.com"
+    },
+
+    {
+        "id": 3,
+        "name": "Lim Wei Jie",
+        "studentId": "S003",
+        "programme": "Diploma in Computer Science",
+        "email": "weijie@example.com"
+    },
+
+    {
+        "id": 4,
+        "name": "Priya Raj",
+        "studentId": "S004",
+        "programme": "Diploma in IT",
+        "email": "priya@example.com"
+    },
+
+    {
+        "id": 5,
+        "name": "Daniel Tan",
+        "studentId": "S005",
+        "programme": "Diploma in Multimedia",
+        "email": "daniel@example.com"
+    }
+
+
+]
